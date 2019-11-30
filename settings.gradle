@@ -41,3 +41,70 @@ include "code/korniakov-kirill-lab3/View"
 project(":code/korniakov-kirill-lab3/View").name = "korniakov-kirill-lab3-View"
 include "code/korniakov-kirill-lab3/Infrastructure"
 project(":code/korniakov-kirill-lab3/Infrastructure").name = "korniakov-kirill-lab3-Infrastructure"
+
+// Алексеев Сергей
+// Антипин Никита
+// Ахмедов Саркар
+// Бевзюк Семен
+// Власов Антон
+// Гречухин Никита
+include "code/fractioncalculator"
+project(":code/fractioncalculator").name = "fractioncalculator"
+// Гришин Дмитрий
+// Зырина Анна
+// Кальянов Дмитрий
+// Карев Борис
+include "code/length-converter"
+project(":code/length-converter").name = "length-converter-Model"
+// Кильдишев Максим
+// Киселева Ольга
+// Конева Александра
+// Коневский Виталий
+include "code/deposit-calculator"
+project(":code/deposit-calculator").name = "deposit-calculator-Model"
+// Кочетова Дарья
+// Красильников Михаил
+// Краснов Александр
+// Куликов Александр
+// Кулыгина Юлия
+include "code/complex-number-calculator"
+project(":code/complex-number-calculator").name = "complex-number-calculator-model" 
+// Купцова Алеся
+// Кучков Иван
+// Лапин Артем
+include "code/quadratic-equasion"
+project(":code/quadratic-equasion").name = "quadratic-equasion-Model"
+// Лахтачев Ярослав
+// Миронова Анна
+// Митрохин Никита
+include "code/queue"
+project(":code/queue").name = "queue-Model"
+// Нестеров Александр
+// Нечесанов Владимир
+// Овчарук Олег
+include "code/polynomialcalculator"
+project(":code/polynomialcalculator").name = "polynomialcalculator"
+// Петров Кирилл
+// Повеликин Ростислав
+// Попков Кирилл
+// Разин Вячеслав
+// Сизова Ксения
+// Симонян Вагинак
+include "code/students-performance"
+project(":code/students-performance").name = "students-performance-Model"
+// Смирнов Андрей
+// Смирнов Егор
+// Тамилина Дарья
+// Тягунов Владимир
+// Федорова Дарья
+// Федотов Андрей
+include "code/datastructure-set"
+project(":code/datastructure-set").name = "datastructure-set"
+// Широких Виолетта
+// Шульпин Степан
+include "code/mortgage-calculator"
+project(":code/mortgage-calculator").name = "mortgage-calculator-Model"
+// Шумихин Сергей
+// Юферев Кирилл
+include "code/stack"
+project(":code/stack").name = "stack-Model"
